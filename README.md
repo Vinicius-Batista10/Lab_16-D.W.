@@ -1,2 +1,4 @@
 # Lab_16-D.W.
-Esse é o texto inicial sobre o Lab-16, aonde nós iremos fazer uma calculadora utilizando html, Css e Java! 
+Este é o meu Lab 16 de Desenvolvimento Web!
+Neste Lab nós tinhamos que fazer uma calculadora funcional utilizando o Java Script.
+A calculadora foi feita utilizando botões no HTML e dando valor a eles pelo Java Script para que eles conseguissem realizar a função de uma calculadora real! Também foi utilizado do CSS para estilizar a calculadora e posiciona-la no centro do site, eu fiz minha versão da calculadora com o design inspirado pela minha calculadora pessoal, por mais que eu não tenha feito todos os botões dela por sairem da premissa desse Lab haha, mesmo assim esse é o meu Lab 16 que projetei!!!
